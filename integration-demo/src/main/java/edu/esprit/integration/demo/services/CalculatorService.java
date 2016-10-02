@@ -9,6 +9,10 @@ public class CalculatorService {
 		
 		return a+b;
 	}
+		public int Addition2(int a, int b){
+		
+		return a+b;
+	}
 	
 public int Soustration(int a, int b){
 		
